@@ -27,6 +27,13 @@ Kno est conçu pour les entreprises (Santé, Juridique, Expertise) qui ne peuven
 *   **📚 Multi-Sources :** Indexez vos PDF, DOCX, mais aussi vos bases SQL et API grâce à nos connecteurs.
 *   **💰 Modèle Économique Imbattable :** Pas de facturation au token. Une licence claire, des coûts maîtrisés.
 
+## 📥 Téléchargement & Extensions
+
+Retrouvez tout l'écosystème Kno pour démarrer immédiatement :
+
+*   **🚀 [Télécharger Kno (Releases)](https://github.com/kno-by-Fdevelopment-LTD/kno/releases) :** Accédez aux derniers installeurs (.exe pour Windows) et binaires.
+*   **🛒 [Kno Store](https://www.fdevelopment.eu/kno/store.html) :** Découvrez notre catalogue de drivers certifiés (SQL, API, Cloud) pour étendre votre base de connaissances.
+
 ## 🔌 Écosystème de Drivers & SDK
 
 Kno est une plateforme évolutive. Vous pouvez étendre ses capacités via notre store ou développer vos propres connecteurs.
