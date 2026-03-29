@@ -1,7 +1,7 @@
 # [kno.fdevelopment.eu](https://kno.fdevelopment.eu)
 
 <p align="center">
-  <img src="https://kno.fdevelopment.eu/img/logo.png" alt="Kno AI Logo" width="180">
+  <img src="https://www.fdevelopment.eu/kno/img/logo.png" alt="Kno AI Logo" width="180">
 </p>
 
 <h2 align="center">Kno : L'IA Documentaire 100% Locale & Souveraine</h2>
